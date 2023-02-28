@@ -1,6 +1,6 @@
 # Christine Roughan
 
-[hcommons](https://hcommons.org/members/cmroughan/) | [github](http://github.com/cmroughan) | [orcid](https://orcid.org/0009-0004-5999-8749)
+[hcommons](https://hcommons.org/members/cmroughan/) | [github](https://github.com/cmroughan) | [orcid](https://orcid.org/0009-0004-5999-8749)
 
 ---
 
@@ -14,8 +14,7 @@
 
 > 2023. New York University, PhD Dissertation.
 
-<details>
-<summary>### Peer-Reviewed Journal Articles</summary>
+### Peer-Reviewed Journal Articles
 
 #### 2022
 
@@ -40,8 +39,6 @@
 “Digital Texts and Diagrams: Representing the Transmission of Euclid’s Elements.”
 
 > *Digital Classics Online* 2.1 (2015). <https://doi.org/10.11588/dco.2016.1.23459>
-
-</details>
  
 ### Publications in Conference Volumes
 
