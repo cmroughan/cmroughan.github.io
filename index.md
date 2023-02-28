@@ -1,6 +1,6 @@
 # Christine Roughan
 
-[hcommons](https://hcommons.org/members/cmroughan/) | [github](github.com/cmroughan) | [orcid](https://orcid.org/0009-0004-5999-8749)
+[hcommons](https://hcommons.org/members/cmroughan/) | [github](https://github.com/cmroughan) | [orcid](https://orcid.org/0009-0004-5999-8749)
 
 ---
 
