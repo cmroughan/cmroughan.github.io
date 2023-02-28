@@ -14,7 +14,8 @@
 
 > 2023. New York University, PhD Dissertation.
 
-### Peer-Reviewed Journal Articles
+<details>
+<summary>### Peer-Reviewed Journal Articles</summary>
 
 #### 2022
 
@@ -39,6 +40,8 @@
 “Digital Texts and Diagrams: Representing the Transmission of Euclid’s Elements.”
 
 > *Digital Classics Online* 2.1 (2015). <https://doi.org/10.11588/dco.2016.1.23459>
+
+</details>
  
 ### Publications in Conference Volumes
 
