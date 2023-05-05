@@ -75,3 +75,11 @@
 “Using Kraken to Train your own OCR Models.”
 
 > Guest contribution to *The Digital Orientalist.* <https://digitalorientalist.com/2019/11/05/using-kraken-to-train-your-own-ocr-models/>
+
+# Recent Presentations
+
+### 2023
+
+"Linguistic Analysis in the Inscriptions of Israel/Palestine Project."
+
+> (With Christopher B. Zeichmann and Michael L. Satlow). Poster session. *ENCODE/Epigraphy.info VII Workshop (Leuven)*. <https://epigraphy.info/workshop_7_posters/>
