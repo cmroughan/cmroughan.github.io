@@ -82,4 +82,4 @@
 
 "Linguistic Analysis in the Inscriptions of Israel/Palestine Project."
 
-> (With Christopher B. Zeichmann and Michael L. Satlow). Poster session. *ENCODE/Epigraphy.info VII Workshop (Leuven)*. <https://epigraphy.info/workshop_7_posters/>
+> (With Christopher B. Zeichmann and Michael L. Satlow). Poster session. *ENCODE/Epigraphy.info VII Workshop (Leuven)*. <[https://epigraphy.info/workshop_7_posters/](https://epigraphy.info/workshop_7_posters/#linguistic-analysis-in-the-inscriptions-of-israelpalestine-project)>
